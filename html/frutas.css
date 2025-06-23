@@ -1,0 +1,16 @@
+body {
+    background-image: url(imagenes/WhatsApp\ Image\ 2025-05-19\ at\ 16.23.19.jpeg);
+  }
+  
+  h1 {
+    text-align: center;
+    color: rgb(4, 0, 255);
+  }
+  .contenedor {
+    background-color: rgba(255, 255, 255, 0.8); /* blanco con un poco de transparencia */
+    padding: 30px;
+    margin: 50px auto;
+    max-width: 800px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  }
