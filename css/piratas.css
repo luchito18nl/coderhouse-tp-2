@@ -13,7 +13,8 @@ body {
   
   
   body {
-      background-image: url("imagenes/car.jpeg");
+     background-image: url("../imagenes/car.jpeg");
+
 
     }
     .contenedor{
